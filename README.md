@@ -4,6 +4,8 @@
 
 Explanation video: https://drive.google.com/file/d/1ZLn1HPZDyidyoeEtHT4P-IksnhDZgpef/view?usp=sharing
 
+Kaggle competition link: https://www.kaggle.com/competitions/mlp-term-3-2025-kaggle-assignment-2/overview
+
 This project focuses on predicting whether a hotel customer will cancel their booking based on customer behavior, booking details, room preferences, pricing, and reservation characteristics.
 
 The project was developed as part of a Kaggle machine learning classification competition and includes:
